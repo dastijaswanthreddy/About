@@ -1,0 +1,145 @@
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.last-container {
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding: 50px 0 16px;
+}
+
+.bottomsub1 {
+  margin-bottom: 50px;
+}
+
+.bottomsub2 {
+  background-color: #66BFBF;
+  color: white;
+  padding: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  border-radius: 6px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.bottomsub2:hover {
+  color: #66BFBF;
+  border: 2px solid #66BFBF;
+  background-color: white;
+}
+.footer-link{
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+a:hover{
+  color:#EAF6F6;
+}
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: dotted none none;
+  border-width: 6px;
+  margin: 100px auto;
+  width: 5%;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+p{
+  line-height: 2;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 0;
+  margin: 0;
+}
+.normal {
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.web-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.code-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pubg-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
