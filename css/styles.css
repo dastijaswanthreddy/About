@@ -40,7 +40,9 @@
 .footer-link {
   font-weight: bold;
 }
-
+div p a{
+  margin: 5px 5px;
+}
 a {
   text-decoration: none;
   color: #11999E;
@@ -49,7 +51,9 @@ a {
 }
 
 a:hover {
-  color: #DEEDF0;
+  font-weight: bold;
+  font-size: large;
+  color: #40514E;
 }
 
 body {
