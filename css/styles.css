@@ -107,6 +107,11 @@ p {
   font-weight: bold;
 }
 
+.profile-pic{
+   height: 300px;
+   width: 300px;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
